@@ -1,12 +1,15 @@
 # VR-Evacuation-Simulation
 
+
 About
 
 The Conestoga Memorial Hospital: Evacuation Training project is a simulation of hazardous scenarios in which users can experience and train on what to do when emergency occurs at a hospital.
 
+
 Goals
 
 This product should train and educate people on the procedures of how to evacuate patients and control the situation at hand. We do this by providing a virtual situation in which staff or related individuals take the perspective of a hospital staff member in charge of patients and assign them things to do when an emergency occurs.
+
 
 Features
 

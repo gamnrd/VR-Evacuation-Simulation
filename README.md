@@ -3,7 +3,7 @@
 
 About
 
-The Conestoga Memorial Hospital: Evacuation Training project is a simulation of hazardous scenarios in which users can experience and train on what to do when emergency occurs at a hospital.
+The Cambridge Memorial Hospital: Evacuation Training project is a simulation of hazardous scenarios in which users can experience and train on what to do when emergency occurs at a hospital.
 
 
 Goals
